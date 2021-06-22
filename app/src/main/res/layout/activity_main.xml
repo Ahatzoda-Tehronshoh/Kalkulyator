@@ -21,7 +21,7 @@
         android:inputType="textPersonName"
         android:text=""
         android:textColor="@color/purple_700"
-        android:textSize="45sp"
+        android:textSize="40sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
@@ -39,7 +39,7 @@
         android:inputType="textPersonName"
         android:text=""
         android:textColor="@color/purple_700"
-        android:textSize="45sp"
+        android:textSize="40sp"
         app:layout_constraintEnd_toEndOf="@+id/editText1"
         app:layout_constraintStart_toStartOf="@+id/editText1"
         app:layout_constraintTop_toBottomOf="@+id/editText1" />
